@@ -1,1 +1,8 @@
 
+# Hospital Patient Data Management
+# No external packages are required.
+
+# Python Standard Library:
+# sqlite3 - SQLite database
+# re - Regular expression validation
+# difflib - Fuzzy string matching
